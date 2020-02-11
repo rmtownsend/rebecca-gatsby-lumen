@@ -1,29 +1,12 @@
 import React, { useRef, useEffect } from 'react';
 import styles from './Form.module.scss';
 
-// type Props = {
-//   title?: string,
-//   children: React.Node
-// };
-
 const Form = () => {
-  // const pageRef = useRef();
-
-  // useEffect(() => {
-  //   pageRef.current.scrollIntoView();
-  // });
 
   return (
-    // <div ref={pageRef} className={styles['page']}>
-    //   <div className={styles['page__inner']}>
-    //     { title && <h1 className={styles['page__title']}>{title}</h1>}
-    //     <div className={styles['page__body']}>
-    //       {children}
-    //     </div>
-    //   </div>
-    // </div>
+
     <div className={styles['form']}>
-    <form method="post" action="#">
+    <form method="post" data-netlify="true">
     <label>
     Name
     <input type="text" name="name" id="name" />
