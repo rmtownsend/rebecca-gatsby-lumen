@@ -6,3 +6,8 @@ npm-debug.log
 .gatsby-context.js
 .idea
 gatsby-starter-lumen.iml
+OG_README.md
+docker-compose.development.yml
+docker-compose.production.yml
+Dockerfile.development
+Dockerfile.production

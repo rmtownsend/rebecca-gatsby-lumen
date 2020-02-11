@@ -1,0 +1,27 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.form {
+ input[type=text], input[type=email], textarea {
+ width: 100%;
+ padding: 12px 20px;
+ margin: 8px 0;
+ box-sizing: border-box;
+ border-radius: 4px;
+}
+
+input[type=text]:focus, input[type=email]:focus, textarea:focus {
+  background-color: lightblue;
+}
+
+input[type=reset], button[type=submit] {
+  width: 10%;
+  padding: 8px 8px;
+  margin-right: 20px;
+  color: gray;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: $typographic-base-font-size * .75;
+
+}
+}
