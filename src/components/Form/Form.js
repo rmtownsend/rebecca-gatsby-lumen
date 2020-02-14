@@ -1,4 +1,5 @@
 import React, { useRef, useEffect } from 'react';
+import { navigate } from 'gatsby-link'
 import styles from './Form.module.scss';
 
 const handleSubmit = (e) => {
