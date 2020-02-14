@@ -32,8 +32,6 @@ export default function Contact() {
   }
 
   return (
-    // <Layout>
-      // <h1>Contact</h1>
       <div className={styles['form']}>
       <form
         name="contact"
@@ -76,6 +74,5 @@ export default function Contact() {
         </p>
       </form>
       </div>
-    // </Layout>
   )
 }
