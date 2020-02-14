@@ -2,6 +2,19 @@ import React, { useRef, useEffect } from 'react';
 import { navigate } from 'gatsby-link'
 import styles from './Form.module.scss';
 
+function encode(data) {
+  return Object.keys(data)
+    .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+    .join('&')
+}
+
+export default function Contact() {
+  const [state, setState] = React.useState({})
+
+  const handleChange = (e) => {
+    setState({ ...state, [e.target.name]: e.target.value })
+  }
+
 const handleSubmit = (e) => {
   e.preventDefault()
   const form = e.target
