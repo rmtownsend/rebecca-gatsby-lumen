@@ -1,12 +1,32 @@
 import React, { useRef, useEffect } from 'react';
 import styles from './Form.module.scss';
 
+const handleSubmit = (e) => {
+  e.preventDefault()
+  const form = e.target
+  fetch('/', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: encode({
+      'form-name': form.getAttribute('name'),
+      ...state,
+    }),
+  })
+    .then(() => navigate(form.getAttribute('action')))
+    .catch((error) => alert(error))
+}
+
 const Form = () => {
 
   return (
 
     <div className={styles['form']}>
-    <form name="contact" method="post" data-netlify="true">
+    <form name="contact"
+        method="post"
+        action="/thanks/"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
+        onSubmit={handleSubmit}form>
       <input type="hidden" name="form-name" value="contact" />
     <label>
     Name
