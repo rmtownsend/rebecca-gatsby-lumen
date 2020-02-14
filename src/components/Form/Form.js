@@ -16,9 +16,10 @@ export default function Contact() {
   }
 
   const handleSubmit = (e) => {
+    console.log('handling submission')
     e.preventDefault()
     const form = e.target
-    fetch('https://5e4238fd22c24640e5c34814--laughing-joliot-ab19de.netlify.com/', {
+    fetch('/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
@@ -37,7 +38,7 @@ export default function Contact() {
       <form
         name="contact"
         method="post"
-        action="/thanks/"
+        // action="/thanks/"
         data-netlify="true"
         // data-netlify-honeypot="bot-field"
         onSubmit={handleSubmit}
