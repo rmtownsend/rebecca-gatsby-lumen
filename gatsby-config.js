@@ -16,6 +16,16 @@ module.exports = {
   },
   plugins: [
     {
+  resolve: `gatsby-plugin-google-fonts`,
+  options: {
+    fonts: [
+      `Karla`,
+      `source sans pro\:300,400,400i,700` // you can also specify font weights and styles
+    ],
+    display: 'swap'
+    }
+  },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content`,
