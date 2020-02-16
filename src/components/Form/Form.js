@@ -38,7 +38,7 @@ export default function Contact() {
         method="post"
         action="./pages/thanks/"
         data-netlify="true"
-        // data-netlify-honeypot="bot-field"
+        data-netlify-honeypot="bot-field"
         onSubmit={handleSubmit}
       >
         {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
