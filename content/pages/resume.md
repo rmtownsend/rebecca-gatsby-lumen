@@ -62,6 +62,8 @@ Professional Activity
 
 ###Presentations:
 
-“[Three Strategic Interventions to Improve the Findability of Enterprise Content](https://osf.io/3ra8w/)” (Poster), Code4Lib, February 2019
+"[Minding Your Digital Junk Drawer](https://osf.io/qdw9k/)" (Poster), Code4Lib, March 2020
+
+“[Three Strategic Interventions to Improve the Findability of Enterprise Content](https://osf.io/3skwg/)” (Poster), Code4Lib, February 2019
 
 “Instruction from the MLIS Student Perspective” (Lightning talk), SCILWorks, February 2018
