@@ -4,7 +4,7 @@ date: "2020-03-22T16:52:32.169Z"
 template: "post"
 draft: false
 slug: "social-distancing-v1"
-category: "social-distancing"
+category: "social distancing"
 tags:
   - "work-life-balance"
   - "wfh"
