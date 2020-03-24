@@ -15,13 +15,13 @@ socialImage: "/media/warhol-bridge.jpg"
 
 Well, there's certainly a lot going on right now in the world. This post is a bit of an update, and the first in a possible series about life in the era of social distancing.
 
-### Code4lib, COVID, and staying safe at home
+### Code4lib, COVID, and staying safer at home
 
-A week and a day ago, I flew out to Pittsburgh, PA for the [2020 Code4lib Conference](https://2020.code4lib.org/). My takeaways from the conference itself merit a post of their own, but I can't stop thinking about how much I loved Pittsburgh as a city. My photos don't do its beauty justice.
+Two weeks and a day ago, I flew out to Pittsburgh, PA for the [2020 Code4lib Conference](https://2020.code4lib.org/). My takeaways from the conference itself merit a post of their own, but I can't stop thinking about how much I loved Pittsburgh as a city. My photos don't do its beauty justice.
 
 ![Andy Warhol Bridge in Pittsburgh, PA](/media/warhol-bridge.jpg)
 
-While news of coronavirus already flooding my inbox and my Twitter feed as I was preparing to leave for the conference, I, like many others, was for the most part continuing with life as usual. Since then, my work has gone from *strongly suggested* work from home to **mandatory** work from home to ***even-more-mandatory*** work from home, California and Los Angeles have issued shelter in place and safe at home orders, and the frequency with which I've heard the phrase "unprecedented times" is well, unprecedented. I developed a cold and fever, and the inevitable anxiety that it was something worse.
+While news of coronavirus already flooding my inbox and my Twitter feed as I was preparing to leave for the conference, I, like many others, was for the most part continuing with life as usual. Since then, my work has gone from *strongly suggested* work from home to **mandatory** work from home to ***even-more-mandatory*** work from home, California and Los Angeles have issued shelter in place and safer at home orders, and the frequency with which I've heard the phrase "unprecedented times" is well, unprecedented. I developed a cold and fever, and the inevitable anxiety that it was something worse.
 
 There's a lot to think about right now, but I wanted to start with some thoughts on work-life balance after a week of working from home.
 
