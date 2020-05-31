@@ -34,7 +34,7 @@ export default function Contact() {
   return (
       <div className={styles['form']}>
       <form
-        name="contact"
+        name="contact-me"
         method="post"
         action="./pages/thanks/"
         data-netlify="true"
@@ -43,7 +43,7 @@ export default function Contact() {
         onSubmit={handleSubmit}
       >
         {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-        <input type="hidden" name="form-name" value="contact" />
+        <input type="hidden" name="form-name" value="contact-me" />
         <p hidden>
           <label>
             Don’t fill this out: <input name="bot-field" onChange={handleChange} />
