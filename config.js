@@ -16,7 +16,7 @@ module.exports = {
     //   path: '/'
     // },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
@@ -48,6 +48,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
+      goodreads: '88027980-rebecca',
     }
   }
 };
