@@ -50,6 +50,9 @@ const getIcon = (name: string) => {
     case 'soundcloud':
       icon = ICONS.SOUNDCLOUD;
       break;
+    case 'goodreads':
+      icon = ICONS.GOODREADS;
+      break;
     default:
       icon = {};
       break;
