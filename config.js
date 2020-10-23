@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© Rebecca M Townsend 2020.',
   disqusShortname: '',
   postsPerPage: 2,
-  googleAnalyticsId: 'UA-146900-1',
+  googleAnalyticsId: 'UA-146900530-1',
   useKatex: false,
   menu: [
     // {
