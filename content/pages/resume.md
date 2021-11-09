@@ -12,13 +12,15 @@ Major: Romance languages (Spanish and French)  Minor: Anthropology
 
 ###Experience
 
-**Jet Propulsion Laboratory, Pasadena, CA**  
+**Jet Propulsion Laboratory, Pasadena, CA**
+Group Leader - Information Management Services | November 2021-present  
 Information Management Engineer | November 2018-present  
 Information Science Intern | January 2018-September 2018  
-- Consulting with engineering groups about strategies and best practices for improving knowledge capture, sharing, and preservation
-- Providing guidance regarding use of institutional tools for enterprise content management
-- Providing user support for content creation and organization within institutional wiki
-- Improving enterprise search results by making curated changes based on user requests and query data, and by working with teams to optimize content to organically integrate with enterprise search system
+- Consult with engineering and business teams throughout the organization about strategies for improving knowledge capture, sharing, and preservation
+- Provide guidance regarding choice and use of institutional tools for enterprise content management
+- Create user documentation and training for institutional repositories
+- Engage in cross-organizational collaboration on tasks related to enterprise search and semantic technologies
+- Improve enterprise search results by making curated changes based on user requests and query data, and by working with teams to optimize content to organically integrate with enterprise search system
 
 **Charles E. Young Research Library, UCLA, Los Angeles, CA**  
 Graduate Student Reference Assistant | September 2016-June 2018  
@@ -53,8 +55,7 @@ Operations Assistant Blueprint | September 2013-July 2014
 Student Library Assistant | June 2012-August 2013  
 - Paged, reshelved, and created housing for rare books and manuscripts
 - Assisted patrons with check in and requests and monitored reading room
-- Helped develop an exhibit for the Free Library of Philadelphia of the Dreyfus Affair Collection, including concept development, item selection and exhibit text
-Professional Activity
+- Helped develop an exhibit for the Free Library of Philadelphia of the Dreyfus Affair Collection, including concept development, item selection, and exhibit text
 
 ###Publications:
 
