@@ -4,14 +4,14 @@ title: Resume
 slug: resume
 draft: false
 ---
-\###Education
+###Education
 
 **University of California, Los Angeles | MLIS 2018**
 
 **University of Pennsylvania | BA, *summa cum laude* 2013**\
 Major: Romance languages (Spanish and French)  Minor: Anthropology
 
-\###Experience
+###Experience
 
 **Jet Propulsion Laboratory, Pasadena, CA**
 
@@ -66,11 +66,11 @@ Student Library Assistant | June 2012-August 2013
 * Assisted patrons with check in and requests and monitored reading room
 * Helped develop an exhibit for the Free Library of Philadelphia of the Dreyfus Affair Collection, including concept development, item selection, and exhibit text
 
-\###Publications:
+###Publications:
 
 “[Improving Enterprise Content Findability through Strategic Intervention](https://journal.code4lib.org/articles/13877),” Code4Lib Journal, Issue 42, November 8, 2018
 
-\###Presentations:
+###Presentations:
 
 "[Minding Your Digital Junk Drawer](https://osf.io/qdw9k/)" (Poster), Code4Lib, March 2020
 
