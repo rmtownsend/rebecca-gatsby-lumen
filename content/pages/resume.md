@@ -20,7 +20,7 @@ Information Science Intern | January 2018-September 2018
 - Provide guidance regarding choice and use of institutional tools for enterprise content management
 - Create user documentation and training for institutional repositories
 - Engage in cross-organizational collaboration on tasks related to enterprise search and semantic technologies
-- Improve enterprise search results by making curated changes based on user requests and query data, and by working with teams to optimize content to organically integrate with enterprise search system
+- Improve enterprise search results by making curated changes based on user requests and query data
 
 **Charles E. Young Research Library, UCLA, Los Angeles, CA**  
 Graduate Student Reference Assistant | September 2016-June 2018  
