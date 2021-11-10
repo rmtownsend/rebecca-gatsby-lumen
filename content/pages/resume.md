@@ -15,7 +15,7 @@ Major: Romance languages (Spanish and French)  Minor: Anthropology
 
 **Jet Propulsion Laboratory, Pasadena, CA**
 
-Group Leader - Information Management Services | November 2021-present\
+Technical Group Lead - Information Management Services | November 2021-present\
 Information Management Engineer | November 2018-present\
 Information Science Intern | January 2018-September 2018  
 
