@@ -21,7 +21,7 @@ For as long as I can remember, I've been a person who says "I'm sorry." A lot. A
 
 As it turns out, often the answer was nothing. Or rather, not a thing worth apologizing for. One day during my lunch break, I wrote out a list of things I apologize for, but probably shouldn't. The same day, a colleague and I had been talking about decision trees (for a question entirely unrelated to apologies), and I decided to draw one out.
 
-![My list of apologies and decision tree](/media/apology_notebook.jpg)
+![My list of apologies and decision tree](/media/apology_notebook_1.jpg)
 
 ### The wizard
 
